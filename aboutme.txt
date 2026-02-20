@@ -133,7 +133,7 @@ Technical Leader with 10+ years of experience building microservices systems for
 
 ---
 
-### J.C. Penney | Plano, TX
+### J.C. Penney 
 *Engineer II* | 2020
 
 - Delivered a 40% web application performance improvement through asynchronous loading, CDN optimization, and resource delivery enhancements for the high-traffic e-commerce platform
