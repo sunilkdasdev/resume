@@ -1,4 +1,4 @@
-[![Download Resume]([https://img.shields.io/badge/⬇️_Download_PDF_Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white](https://sunilkdasdev.github.io/resume/aboutme.pdf))](aboutme.pdf)
+[![Download Resume]((https://sunilkdasdev.github.io/resume/aboutme.pdf))](aboutme.pdf)
 
 # SUNIL KUMAR DAS
 Roswell, GA | 470-546-1742 | [sunilkdas.dev@gmail.com](mailto:sunilkdas.dev@gmail.com) | [linkedin.com/in/sunilkdas](https://www.linkedin.com/in/sunilkdas)
