@@ -1,3 +1,5 @@
+[![Download Resume]([https://img.shields.io/badge/⬇️_Download_PDF_Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white](https://sunilkdasdev.github.io/resume/aboutme.pdf))](Sunil_Kumar_Das_Resume.pdf)
+
 # SUNIL KUMAR DAS
 Roswell, GA | 470-546-1742 | [sunilkdas.dev@gmail.com](mailto:sunilkdas.dev@gmail.com) | [linkedin.com/in/sunilkdas](https://www.linkedin.com/in/sunilkdas)
 
@@ -98,7 +100,7 @@ Technical Leader with 10+ years of experience building microservices systems for
 
 ## PROFESSIONAL EXPERIENCE
 
-### Manhattan Associates | Atlanta, GA
+### Manhattan Associates | Atlanta, GA and Bangalore, India
 *Tech Lead (Senior Full Stack Software Engineer)* | 2020 – Present
 
 #### Team Leadership & Technical Direction
@@ -133,7 +135,7 @@ Technical Leader with 10+ years of experience building microservices systems for
 
 ---
 
-### J.C. Penney | Plano, TX
+### J.C. Penney 
 *Engineer II* | 2020
 
 - Delivered a 40% web application performance improvement through asynchronous loading, CDN optimization, and resource delivery enhancements for the high-traffic e-commerce platform
