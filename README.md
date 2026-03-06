@@ -1,197 +1,247 @@
 [![Download Resume]((https://sunilkdasdev.github.io/resume/aboutme.pdf))](aboutme.pdf)
+~~***SUNIL KUMAR DAS**
 
-# SUNIL KUMAR DAS
-Roswell, GA | 470-546-1742 | [sunilkdas.dev@gmail.com](mailto:sunilkdas.dev@gmail.com) | [linkedin.com/in/sunilkdas](https://www.linkedin.com/in/sunilkdas)
+~~***Roswell, GA | 470-546-1742 | sunilkdas@proton.me | [https://www.linkedin.com/in/sunilkdas**](https://www.linkedin.com/in/sunilkdas)
 
-**STATUS: U.S. Permanent Resident (Green Card Holder)**
+~~***STATUS: U.S. Permanent Resident (Green Card Holder)**
 
----
+~~***PROFESSIONAL SUMMARY**
 
-## PROFESSIONAL SUMMARY
+~~***Technical Leader with 10+ years of experience building microservices systems for enterprise supply chain**
 
-Technical Leader with 10+ years of experience building microservices systems for enterprise supply chain and logistics companies. As a U.S. Permanent Resident, I offer stability for long-term initiatives without the need for visa sponsorship. Proven track record of leading teams of 11+ engineers to deliver 20+ features with 99.9% uptime. Expert in Transportation Management Systems (TMS), having reduced system load times by 87% and cut API costs by 70% through distributed caching architectures handling 100,000+ concurrent operations. Full-stack polyglot engineer proficient in Java/Spring Boot and Python, actively exploring generative AI to power next-generation logistics features.
+~~***and logistics companies. Proven track record of leading teams of 11+ engineers to deliver 20+ features**
 
----
+~~***with 99.9% uptime. Expert in Transportation Management Systems (TMS), having reduced system**
 
-## CORE TECHNICAL SKILLS
+~~***load times by 87% and cut API costs by 70% through distributed caching architectures handling 100,000+**
 
-<details>
-<summary><strong>Languages & Frameworks</strong></summary>
+~~***concurrent operations. Full-stack polyglot engineer proficient in Java/Spring Boot and Python, actively**
 
-- Java 17 (8/11 legacy), Spring Boot, Spring Cloud, Spring MVC, Spring Security, Hibernate/JPA
-- Python 3.x, Flask/FastAPI, Pandas, SQLAlchemy
-- REST APIs, Microservices, Event-Driven Architecture
-- OOP, Design Patterns, Concurrency, Multithreading
-</details>
+~~***exploring generative AI to power next-generation logistics features.**
 
-<details>
-<summary><strong>Cloud & Infrastructure</strong></summary>
+~~***CORE TECHNICAL SKILLS**
 
-- AWS (EC2, S3, Lambda, RDS, VPC, IAM, SageMaker, Step Functions)
-- GCP (Compute Engine, Cloud Storage, Cloud Functions, Google Pub/Sub)
-- Docker, Kubernetes, Helm, Terraform
-- Jenkins, GitHub Actions, CI/CD, Serverless
-</details>
+~~***Languages & Frameworks: *Java 8/11, Python, Spring Boot, Spring Cloud, Spring MVC,**
 
-<details>
-<summary><strong>Data & Messaging</strong></summary>
+~~***Hibernate, JPA, REST APIs, Micro services Architecture, Event Driven**
 
-- PostgreSQL (pgvector), Oracle SQL, MongoDB, MySQL, NoSQL
-- IBM MQ, Apache Kafka, RabbitMQ, ActiveMQ
-- Hazelcast, HikariCP
-- Database Design, SQL Optimization, Data Modeling
-</details>
+~~***Architecture, Spring Security, Design Patterns, Object-Oriented Programming (OOP), Multithreading,**
 
-<details>
-<summary><strong>DevOps & Monitoring</strong></summary>
+~~***Concurrency**
 
-- Dynatrace, Splunk, New Relic, ELK Stack, Kibana
-- Grafana, Prometheus, Solr, PagerDuty
-- Log4j2, SLF4J, Maven, Gradle
-- Git, Bitbucket, GitHub, kubectl, Ambassador, APM Tools
-</details>
+~~***Cloud & Infrastructure: *AWS (EC2, S3, Lambda, RDS, VPC, IAM), GCP (Compute Engine, Cloud**
 
-<details>
-<summary><strong>Architecture & Design</strong></summary>
+~~***Storage, Cloud Functions), Google Pub/Sub, Docker, Kubernetes (K8s), Terraform, Jenkins,**
 
-- System Design, Distributed Systems, Scalability
-- High Availability, Fault Tolerance, SOLID Principles
-- SOA, API Gateway, Load Balancing, Caching Strategies
-- SRE Practices
-</details>
+~~***GitHub Actions, CI/CD Pipelines**
 
-<details>
-<summary><strong>Supply Chain & Domain</strong></summary>
+~~***Data & Messaging: *Oracle SQL, PostgreSQL (pg vector), MongoDB, MySQL , IBM MQ, Apache**
 
-- TMS (Transportation Management Systems)
-- Route Optimization, Real-time Tracking, Fleet Management
-- Carrier Management, EDI Integration
-- Shipment Visibility, Order Fulfillment, ETA Calculation
-</details>
+~~***Kafka, RabbitMQ, ActiveMQ, Hazel cast, HikariCP, Database Design, SQL Optimization, Data Modeling**
 
-<details>
-<summary><strong>Leadership & Process</strong></summary>
+~~***DevOps & Monitoring: *Dynatrace, Splunk, New Relic, Elasticsearch (ELK Stack), Kibana, Grafana,**
 
-- Technical Leadership, Team Lead, Mentorship
-- Architecture Reviews, Technical Documentation
-- Agile/Scrum, Kanban, Stakeholder Management
-- Hiring & Interviewing
-</details>
+~~***Prometheus, Solr, Log4j2, SLF4J, Maven, Gradle, Git, Bitbucket, GitHub, kubectl,**
 
-<details>
-<summary><strong>Security & Compliance</strong></summary>
+~~***Telepresence, APM Tools**
 
-- OWASP Top 10, Secure Coding, OAuth2, JWT, SAML
-- Active Directory, LDAP
-- HIPAA, GDPR, CCPA, Section 508/WCAG
-- CVE Remediation, PHI/PII Protection
-</details>
+~~***Architecture & Design: *System Design, Distributed Systems, Scalability, High Availability, Fault**
 
-<details>
-<summary><strong>Testing & Quality</strong></summary>
+~~***Tolerance, Event-Driven Architecture, SOLID Principles, Service-Oriented Architecture (SOA), API**
 
-- JUnit, Mockito, TestNG, Selenium, pytest
-- TDD/BDD, Unit/Integration/E2E Testing
-- Code Reviews, SonarQube
-- Performance Testing, Load Testing, Incident Management
-</details>
+~~***Gateway, Load Balancing, Caching Strategies, SRE Practices**
 
----
+~~***Supply Chain & Domain: *TMS (Transportation Management Systems), Route Optimization,**
 
-## PROFESSIONAL EXPERIENCE
+~~***Real-time Tracking, Fleet Management, Carrier Management, EDI Integration, Transportation**
 
-### Manhattan Associates | Atlanta, GA and Bangalore, India
-*Tech Lead (Senior Full Stack Software Engineer)* | 2020 – Present
+~~***Optimization, Logistics Platforms, Shipment Visibility, Order Fulfillment, ETA Calculation**
 
-#### Team Leadership & Technical Direction
-- Lead and mentor 11 engineers across 2 squads through 1-on-1s, code reviews, and architecture discussions for a microservices platform serving North American TMS clients
-- Set technical direction, run sprint planning, and ensure on-time delivery using Agile/Scrum, reducing the team's Mean Time to Resolution (MTTR) by 45% through root-cause analysis and improved testing
-- Established code review standards and security practices, reducing production defects by 60%
+~~***Leadership & Process: *Technical Leadership, Team Lead, Engineering Management, Mentorship,**
 
-#### Strategic Technical Delivery (20+ Enterprise Features)
-- Redesigned caching with Hazelcast and optimized connection pooling with HikariCP, cutting load times from 15 seconds to 2 seconds for 100,000+ concurrent trips
-- Built an intelligent cache layer for PC*MILER routing calls, reducing external API costs by 70% and saving significant operational expenses
-- Designed a zero-downtime Python migration framework that moved 200M+ rows from a legacy Oracle schema to a new Dispatch data model, handling complex entity transformations
-- Built a carrier-scoring microservice that returns the top-N carriers per shipment by blending price, ETA, compliance, and live acceptance-ratio metrics
-- Developed a real-time tracking system integrating OBD devices and GPS to provide live shipment updates and dynamic ETA calculations for delivery fleets
-- Added gRPC for service-to-service communication, improving latency and throughput in critical TMS workflows
-- Created an auditing framework with transaction trails and data retention to meet US transportation regulatory requirements
-- Improved AWS Lambda cold-start times from >1 second to <200ms by shrinking deployment packages and enabling Provisioned Concurrency
-- Resolved RDS "TooManyConnections" errors by implementing connection pooling and RDS Proxy, reducing connection count from 120 to 12
-- Accelerated external API calls by replacing blocking requests with async `httpx` + `asyncio`, reducing third-party latency from 1.4s to 0.3s
-- Reduced logging costs by 85% via structured logging, PII masking, and optimized CloudWatch retention
+~~***Architecture Reviews, Technical Documentation, Agile/Scrum, Sprint Planning,**
 
-#### Cross-Functional Leadership & Innovation
-- Built a TMS Mobile app from scratch using Ionic/Angular, integrating 25+ backend APIs with Firebase for real-time updates
-- Set up CI/CD pipelines in Jenkins with security scanning, cutting deployment time from days to hours and enabling weekly releases
-- Led a zero-downtime upgrade of Spring 5, Hibernate 5, and Java 11 across the codebase, fixing vulnerabilities and improving performance
-- Collaborated with Product, UX, and Customer Success to translate customer needs into technical solutions while managing technical debt
+~~***Stakeholder Management, Cross-Functional Collaboration**
 
-#### Operational Excellence & Production Support
-- Set up Dynatrace monitoring and PagerDuty alerts with SLOs/SLIs to track API performance and proactively catch issues
-- Built a remote debugging setup with Telepresence, enabling the team to troubleshoot production issues 70% faster
-- Configured Elasticsearch/Solr search on AWS, collaborating with DevOps on capacity planning and auto-scaling
-- Lead on-call rotation for P1/P2 incidents, running blameless post-mortems to prevent recurrence
+~~***Security & Compliance: *OWASP Top 10, Secure Coding, OAuth2, JWT, SAML, Active Directory, LDAP,**
 
----
+~~***HIPAA, GDPR, CCPA, WCAG Accessibility, CVE Remediation, PHI/PII Protection**
 
-### J.C. Penney 
-*Engineer II* | 2020
+~~***Testing & Quality: *JUnit, Mockito, TestNG, TDD, Unit Testing, Integration Testing,**
 
-- Delivered a 40% web application performance improvement through asynchronous loading, CDN optimization, and resource delivery enhancements for the high-traffic e-commerce platform
-- Collaborated with a cross-functional Agile team of 8+ engineers, participating in sprint ceremonies and technical discussions
-- Mentored developers on JavaScript best practices, performance optimization, and WCAG 2.1 accessibility standards
+~~***End-to-End Testing, Code Reviews, Static Code Analysis, SonarQube, Performance Testing, Load**
 
----
+~~***Testing, Production Support, Incident Management**
 
-### Cognizant (Etihad Airways Client Engagement)
-*Associate* | 2019 – 2020
 
-- Developed fault-tolerant REST APIs for an airline consent-management platform with 99.9% uptime, supporting global passenger data privacy and regulatory compliance
-- Partnered with compliance and legal teams to ensure GDPR, CCPA, and international aviation regulatory readiness, implementing robust error handling and audit logging
-- Built scalable backend workflows handling passenger consent requests across multiple jurisdictions
+~~***PROFESSIONAL EXPERIENCE**
 
----
+~~***Lead Engineer — Manhattan Associates (US-based Supply Chain SaaS) —**
 
-### Infosys (Aetna Healthcare Client)
-*Technology Analyst* | 2015 – 2019
+~~***2020 – Present**
 
-- Built an enterprise authentication and authorization system (Spring Security, Active Directory/LDAP, JWT) serving 50,000+ healthcare users with 99.95% availability, ensuring HIPAA compliance
-- Developed Python scripts for healthcare claims data processing and validation, automating manual tasks and generating reports
-- Led the development of a role-based access control (RBAC) framework compliant with HIPAA, collaborating with InfoSec and compliance teams
-- Developed secure, responsive web interfaces with HTML5/CSS3/Bootstrap ensuring Section 508 accessibility compliance
-- Mentored 3 junior engineers on Spring Framework, secure coding (OWASP), and healthcare compliance
+- ~~***Reduced load times 87% (15s → *2s) for 100K+ concurrent trips by redesigning caching with**
 
----
+- ~~***Hazelcast and optimizing HikariCP connection pooling**
 
-## EDUCATION
 
-**Bachelor of Technology — Electrical & Electronics Engineering**  
-IIIT Bhubaneswar | CGPA: 8.35/10
+- ~~***Cut external API costs 70% ($150K+ annual savings) through intelligent cache layer for**
 
----
+- ~~***PC\*MILER routing calls, reducing call volume from 5M to 1.5M monthly**
 
-## TECHNICAL PROJECTS & OPEN SOURCE
+- ~~***Optimized database queries and indexing strategy, reducing database CPU utilization 55% and**
 
-### AI-Powered Audiobook Generator
-*Python, LangChain, PostgreSQL (pgvector), OpenAI API* | 2025
+- ~~***supporting 2x user growth without infrastructure scaling**
 
-- Built a web content extraction and summarization tool using Docling for parsing and LangChain for AI orchestration
-- Implemented PostgreSQL with pgvector for storing document embeddings and enabling semantic search
-- Developed a pipeline to convert web articles to audio: scraping (BeautifulSoup) → summarization (GPT-4) → text-to-speech (gTTS)
+- ~~***Designed auto-scaling strategy for peak auction events, handling 10x traffic spikes while**
 
-### Personal Finance Dashboard
-*Python, Streamlit, SQLite, Plotly, pandas*
+- ~~***maintaining sub-100ms P95 response times**
 
-- Built a web dashboard for tracking personal expenses and visualizing spending patterns over time
-- Implemented CSV import for bank statements with automatic transaction categorization
-- Created interactive charts using Plotly showing monthly trends and category breakdowns
+- ~~***Built real-time tracking system integrating OBD devices and GPS serving 50K+ daily**
 
----
+- ~~***shipments with live updates and dynamic ETA calculations**
 
-## LEADERSHIP & AWARDS
+- ~~***Integrated OAuth2/SSO with enterprise identity management, securing access for  TMS**
 
-- **Manhattan Associates** — Star of the Quarter for outstanding technical leadership, innovation, and team impact
-- **Infosys** — Zircon Award for exceptional performance and significant contributions to project success
-- **Mentorship:** Guided 11 engineers through career growth, technical skill development, and leadership opportunities
-- **Hiring:** Interviewed 25+ candidates, providing technical assessment and cultural fit evaluation
+- ~~***users**
+
+- ~~***Created compliance-ready auditing framework with transaction trails processing 2M+ daily**
+
+- ~~***events meeting US DOT regulatory requirements**
+
+- ~~***Developed EDI data pipeline with invoice generation processing 500K+ monthly transactions,**
+
+- ~~***tax validation, and carrier acceptance algorithms**
+
+- ~~***Architected event-driven system with Kafka handling 10M+ daily events, enabling real-time**
+
+- ~~***analytics and reducing data staleness from hours to seconds**
+
+- ~~***Led TMS Mobile app (Ionic/Angular) from inception  now used by 1K+ drivers daily, integrating  
+25+ backend APIs with Firebase real-time updates. Collaborated with Product, UX, and **
+
+- ~~***Customer Success to translate customer needs into technical solutions while managing technical debt**
+
+
+- ~~***Created an auditing framework with transaction trails and data retention to meet US transportation **
+
+- ~~***regulatory requirements**
+
+- ~~***Built Jenkins CI/CD pipeline with security scanning, reducing deployment time and enabling**
+
+- ~~***weekly production releases**
+
+- ~~***Set up remote debugging with Telepresence, reducing production troubleshooting time 70% (4**
+
+- ~~***hours to *1.2 hours average resolution)**
+
+- ~~***Configured Elasticsearch/Solr search on AWS with auto-scaling, handling 1M+ daily queries**
+
+- ~~***with 99.9% availability**
+
+- ~~***Implemented feature flags with consul enabling gradual rollouts, reducing rollback**
+
+- ~~***incidents**
+
+- ~~***Lead on-call rotation for P1/P2 incidents serving 500+ enterprise clients, running incident**
+
+- ~~***response and blameless post-mortems**
+
+- ~~***Collaborate with DevOps on capacity planning and infrastructure optimization, reducing GCP**
+
+- ~~***costs 35% ($400K+ annual savings)**
+
+
+~~***Engineer II — J.C. Penney (Major US Retailer) — 2020**
+
+- ~~***Delivered 40% web application performance improvement through asynchronous loading, CDN**
+
+- ~~***optimization, and resource delivery enhancements for high-traffic e-commerce platform**
+
+- ~~***Collaborated with cross-functional Agile team of 8+ engineers based in Plano, TX, participating**
+
+- ~~***in sprint ceremonies, technical discussions, and quality assurance**
+
+- ~~***Developed A/B testing features using JavaScript best practices, performance optimization techniques,**
+
+- ~~***and web accessibility standards (WCAG 2.1)**
+
+
+~~***Associate — Cognizant (Etihad Airways Client Engagement) — 2019 – 2020**
+
+- ~~***Developed fault-tolerant REST APIs for airline consent-management platform with 99.9%**
+
+- ~~***uptime, supporting global passenger data privacy and regulatory compliance**
+
+- ~~***Created multi-lingual custom email template support**
+
+- ~~***Built scalable backend workflows handling passenger consent requests across multiple**
+
+- ~~***jurisdictions, meeting aviation industry data protection standards**
+
+- ~~***Contributed to technical design discussions and code reviews, advocating for scalability,**
+
+- ~~***maintainability**
+
+~~***Technology Analyst — Infosys (Aetna Healthcare Client) — 2015 – 2019**
+
+- ~~***Built enterprise authentication and authorization system (Spring Security, Active**
+
+- ~~***Directory/LDAP, JWT) serving 50,000+ healthcare users with 99.95% availability, ensuring**
+
+- ~~***HIPAA compliance**
+
+- ~~***Developed secure, responsive web interfaces with HTML5/CSS3/JavaScript/jQuery/Bootstrap ensuring Section**
+
+- ~~***508 accessibility compliance for healthcare applications and cross-browser compatibility**
+
+- ~~***Implemented security controls for protected health information (PHI) access, including audit**
+
+- ~~***logging, session management, and secure authentication workflows**
+
+- ~~***Mentored 3 junior engineers on Spring framework, secure coding practices (OWASP),**
+
+- ~~***healthcare compliance requirements, and enterprise development standards**
+
+
+~~***EDUCATION**
+
+~~***Bachelor of Technology — Electrical & Electronics Engineering *| IIIT Bhubaneswar | CGPA:**
+
+~~***8.35/10**
+
+~~***PERSONAL PROJECTS**
+
+~~***AI-Powered Audiobook Generator *| Personal Project | Python, Docling, PostgreSQL pgvector,**
+
+~~***Embeddings, TTS**
+
+~~***Built intelligent web content extraction and summarization system using Docling for document**
+
+~~***parsing and embedding agents for semantic understanding**
+
+~~***Implemented PostgreSQL vector database (pgvector) with embedding-based retrieval for**
+
+~~***efficient content processing and context-aware summarization**
+
+~~***Developed end-to-end pipeline converting web pages to MP3 audiobooks: web scraping →**
+
+~~***content extraction → *AI summarization → *text-to-speech conversion**
+
+~~***Explored cutting-edge AI/ML technologies including vector embeddings, semantic search, and**
+
+~~***RAG patterns for real-world application**
+
+
+~~***AWARDS**
+
+~~***Manhattan Associates — *Star of the Quarter for outstanding technical leadership,**
+
+~~***innovation, and team impact**
+
+~~***Infosys — *Zircon Award for exceptional performance and significant contributions to project**
+
+~~***success**
+
+**  
+**
