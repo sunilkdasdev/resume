@@ -1,4 +1,4 @@
-[![Download Resume]((https://sunilkdasdev.github.io/resume/aboutme.pdf))](aboutme.pdf)
+[![Download Resume]((https://sunilkdasdev.github.io/resume/resume.pdf))](resume.pdf)
 # SUNIL KUMAR DAS
 
 Roswell, GA | 470-546-1742 | sunilkdas@proton.me | [https://www.linkedin.com/in/sunilkdas](https://www.linkedin.com/in/sunilkdas)
@@ -19,7 +19,7 @@ Technical Leader with 10+ years of experience building microservices systems for
 Java 8/11, Python, Spring Boot, Spring Cloud, Spring MVC, Hibernate, JPA, REST APIs, Microservices Architecture, Event Driven Architecture, Spring Security, Design Patterns, Object-Oriented Programming (OOP), Multithreading, Concurrency
 
 **Cloud & Infrastructure**  
-AWS (EC2, S3, Lambda, RDS, VPC, IAM), GCP (Compute Engine, Cloud Storage, Cloud Functions), Google Pub/Sub, Docker, Kubernetes (K8s), Terraform, Jenkins, GitHub Actions, CI/CD Pipelines
+AWS (EC2, S3, Lambda, RDS, VPC, IAM), GCP (Compute Engine, Cloud Storage, Cloud Functions, GKE, Cloud SQL), Google Pub/Sub, Docker, Kubernetes (K8s), Terraform, Jenkins, GitHub Actions, CI/CD Pipelines and Zuul Server
 
 **Data & Messaging**  
 Oracle SQL, PostgreSQL (pgvector), MongoDB, MySQL, IBM MQ, Apache Kafka, RabbitMQ, ActiveMQ, Hazelcast, HikariCP, Database Design, SQL Optimization, Data Modeling
