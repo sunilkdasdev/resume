@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sunil Kumar Das</title>
+</head>
+<body>
+
+<h1>Sunil Kumar Das</h1>
+
+<ul>
+<li>Alpharetta, Georgia</li>
+<li><a href="mailto:sunilkdas.dev@gmail.com">sunilkdas.dev@gmail.com</a></li>
+<li>470-546-1742</li>
+<li><a href="https://linkedin.com/in/sunilkdas">linkedin.com/in/sunilkdas</a></li>
+<li>U.S. Permanent Resident</li>
+</ul>
+
+<hr>
+
+<p>
+I have been a software engineer for about ten years, mostly in enterprise Java &mdash;
+Spring Boot, Kafka, Hazelcast, the whole stack. Most of that time was spent at
+Manhattan Associates building the internals of a Transportation Management System:
+the part that figures out where trucks are, what they should be doing, and why they
+aren't doing it. Before that I did a stint at Infosys on healthcare systems for Aetna,
+which taught me more about HIPAA than any person should reasonably know.
+</p>
+
+<p>
+I grew up across multiple places in India, studied electrical engineering at IIIT Bhubaneswar, and worked
+in Bangalore before moving to the US. I have been in Atlanta since 2025. I hold a green card.
+</p>
+
+<p>
+Right now I am looking for a senior or lead backend role, preferably somewhere that
+has genuinely hard distributed systems problems and is not just wrapping ChatGPT in a CRUD app.
+</p>
+
+<hr>
+
+<h2>Work</h2>
+
+<h3>Lead Engineer &mdash; Manhattan Associates &nbsp; 2020&ndash;2025</h3>
+
+<p>
+Manhattan Associates makes Manhattan Active&reg; &mdash; a cloud-native SaaS suite covering
+Supply Chain, Warehouse Management, and Transportation Management for large retailers
+and logistics companies. The platform runs on GCP, uses Google Pub/Sub for async messaging,
+and exposes everything through REST APIs with OAuth2/SAML-based access management.
+My team worked on the TMS side: trip planning, carrier assignment,
+real-time tracking, and the event pipeline underneath all of it.
+</p>
+
+<p>
+The most interesting problem I worked on was latency. The trip planning screen was loading
+in 15 seconds for dispatchers managing 100,000+ concurrent trips. That is not a typo.
+After profiling we found the culprit: every page load was hammering the
+PC*MILER routing API for mileage data that had not changed since last week.
+We built a Hazelcast cache in front of it, tuned HikariCP connection pooling,
+and got the load time to 2 seconds.
+</p>
+
+<p>
+I also led the mobile app we built for drivers &mdash; Ionic/Angular, Firebase for real-time
+updates, talking to 25+ backend APIs I had also written. About 1,000 drivers use it daily.
+When I started that project I had never shipped a mobile app. I read the docs and figured it out.
+</p>
+
+<p>
+On the infrastructure side: I worked on shipment processing and tracking message pipelines built on RabbitMQ,
+set up Elasticsearch for shipment search handling 1M+ daily queries, and wrote the EDI pipeline
+(X12 204/214/210/997) for invoice generation and carrier payment.
+I was on the on-call rotation for P1/P2 incidents across 500+ enterprise clients,
+which is where you really learn how systems break.
+</p>
+
+<p>
+A few years in I started leading the Dispatch team, doing architecture reviews, and sitting
+in on hiring panels. I left in 2025 to look for something new.
+</p>
+
+<h3>Engineer II &mdash; J.C. Penney &nbsp; 2020</h3>
+
+<p>
+I worked on the e-commerce team owning the Product Listing Page (PLP) and
+Product Detail Page (PDP) &mdash; the pages that most customers spend most of their time on.
+The main work was A/B testing infrastructure and personalised offer rendering:
+showing the right daily offers to the right users based on their profile and behaviour.
+Good problem to work on. Improved overall page load performance 40% as part of that effort.
+The company was going through a difficult period, which meant a lot of autonomy
+and fast decisions &mdash; not a bad environment to sharpen instincts in.
+</p>
+
+<h3>Associate Engineer &mdash; Cognizant / Etihad Airways &nbsp; 2019&ndash;2020</h3>
+
+<p>
+Built REST APIs for Etihad's passenger consent management platform &mdash; the system that
+handles GDPR opt-ins and data privacy requests for an international airline.
+99.9% uptime requirement, multiple jurisdictions, multi-lingual email templates.
+Straightforward work, done carefully.
+</p>
+
+<h3>Technology Analyst &mdash; Infosys / Aetna Healthcare &nbsp; 2015&ndash;2019</h3>
+
+<p>
+Four years building the authentication and authorization layer for Aetna's internal
+healthcare applications &mdash; Spring Security, Active Directory, LDAP, JWT,
+50,000+ users, HIPAA compliance throughout.
+This is where I learned enterprise Java properly.
+I also mentored three junior engineers, which taught me that explaining something
+is the fastest way to find out whether you actually understand it.
+</p>
+
+<hr>
+
+<h2>Things I know well</h2>
+
+<p>
+Java (8, 11, 17), Spring Boot, Spring Cloud, Hibernate, JPA.
+Kafka, RabbitMQ, IBM MQ.
+Hazelcast, Redis.
+Oracle SQL, PostgreSQL, MongoDB.
+AWS, GCP, Kubernetes, Docker, Terraform.
+Elasticsearch, Splunk, Dynatrace.
+OAuth2, SAML, JWT, LDAP.
+</p>
+
+<p>
+Things I have been building lately: RAG pipelines, pgvector, LangChain, Ollama,
+local LLM inference, TTS. I have a project called Dockling that turns web pages
+into MP3 audiobooks using Docling for parsing and pgvector for semantic chunking.
+It works better than I expected.
+</p>
+
+<hr>
+
+<h2>Education</h2>
+
+<p>
+B.Tech, Electrical &amp; Electronics Engineering<br>
+IIIT Bhubaneswar, India &mdash; 8.35/10
+</p>
+
+<hr>
+
+<h2>Awards</h2>
+
+<p>
+Star of the Quarter at Manhattan Associates. Zircon Award at Infosys.
+I mention these not because I think awards mean much but because they suggest
+that the people I worked with did not find me entirely useless.
+</p>
+
+<hr>
+
+<p><small>April 2026</small></p>
+
+</body>
+</html>
