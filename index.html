@@ -19,16 +19,17 @@
 
 <p>
 I have been a software engineer for about ten years, mostly in enterprise Java &mdash;
-Spring Boot, Kafka, Hazelcast, the whole stack. Most of that time was spent at
-Manhattan Associates building the internals of a Transportation Management System:
-the part that figures out where trucks are, what they should be doing, and why they
-aren't doing it. Before that I did a stint at Infosys on healthcare systems for Aetna,
+Spring Boot, RabbitMQ, Hazelcast, the whole stack. Most of that time was spent at
+Manhattan Associates building the Dispatch and TMS modules of Manhattan Active&reg;,
+a cloud-native supply chain platform: the part that figures out where trucks are,
+what they should be doing, and why they aren't doing it.
+Before that I did a stint at Infosys on healthcare systems for Aetna,
 which taught me more about HIPAA than any person should reasonably know.
 </p>
 
 <p>
-I grew up across multiple places in India, studied electrical engineering at IIIT Bhubaneswar, and worked
-in Bangalore before moving to the US. I have been in Atlanta since 2025. I hold a green card.
+I grew up across multiple places in India, studied electrical engineering at IIIT Bhubaneswar,
+and worked in Bangalore before moving to the US. I have been in Atlanta since 2025. I hold a green card.
 </p>
 
 <p>
@@ -44,15 +45,12 @@ has genuinely hard distributed systems problems and is not just wrapping ChatGPT
 
 <p>
 Manhattan Associates makes Manhattan Active&reg; &mdash; a cloud-native SaaS suite covering
-Supply Chain, Warehouse Management, and Transportation Management for large retailers
-and logistics companies. The platform runs on GCP, uses Google Pub/Sub for async messaging,
-and exposes everything through REST APIs with OAuth2/SAML-based access management.
-My team worked on the TMS side: trip planning, carrier assignment,
-real-time tracking, and the event pipeline underneath all of it.
+Supply Chain, Warehouse Management, and Transportation Management, running on GCP.
+I owned end-to-end delivery of two modules: Dispatch and TMS Mobile.
 </p>
 
 <p>
-The most interesting problem I worked on was latency. The trip planning screen was loading
+The most interesting problem I worked on was latency. The Dispatch screen was loading
 in 15 seconds for dispatchers managing 100,000+ concurrent trips. That is not a typo.
 After profiling we found the culprit: every page load was hammering the
 PC*MILER routing API for mileage data that had not changed since last week.
@@ -61,17 +59,20 @@ and got the load time to 2 seconds.
 </p>
 
 <p>
-I also led the mobile app we built for drivers &mdash; Ionic/Angular, Firebase for real-time
-updates, talking to 25+ backend APIs I had also written. About 1,000 drivers use it daily.
+I also owned TMS Mobile &mdash; Ionic/Angular, Firebase for real-time GPS tracking
+of 50K+ daily shipments, talking to 25+ backend APIs I had also written.
+About 1,000 drivers use it daily.
 When I started that project I had never shipped a mobile app. I read the docs and figured it out.
 </p>
 
 <p>
-On the infrastructure side: I worked on shipment processing and tracking message pipelines built on RabbitMQ,
-set up Elasticsearch for shipment search handling 1M+ daily queries, and wrote the EDI pipeline
-(X12 204/214/210/997) for invoice generation and carrier payment.
-I was on the on-call rotation for P1/P2 incidents across 500+ enterprise clients,
-which is where you really learn how systems break.
+Beyond those two modules: I developed and maintained shipment processing and tracking
+message pipelines on RabbitMQ, managed Elasticsearch for shipment search handling 1M+ daily queries,
+managed the EDI pipeline (X12 204/214/210/997) processing 500K+ monthly transactions,
+and worked with the platform audit framework to meet US DOT transaction trail requirements.
+I also built CI/CD pipelines in Jenkins for both Dispatch and TMS Mobile.
+On the side I supported the legacy Supply Chain Planning Platform &mdash; tickets, development,
+regression fixes, production issues. I participated in on-call rotation for 50+ enterprise clients.
 </p>
 
 <p>
@@ -86,7 +87,7 @@ I worked on the e-commerce team owning the Product Listing Page (PLP) and
 Product Detail Page (PDP) &mdash; the pages that most customers spend most of their time on.
 The main work was A/B testing infrastructure and personalised offer rendering:
 showing the right daily offers to the right users based on their profile and behaviour.
-Good problem to work on. Improved overall page load performance 40% as part of that effort.
+Good problem to work on.
 The company was going through a difficult period, which meant a lot of autonomy
 and fast decisions &mdash; not a bad environment to sharpen instincts in.
 </p>
@@ -117,10 +118,10 @@ is the fastest way to find out whether you actually understand it.
 
 <p>
 Java (8, 11, 17), Spring Boot, Spring Cloud, Hibernate, JPA.
-Kafka, RabbitMQ, IBM MQ.
+RabbitMQ, IBM MQ, Kafka.
 Hazelcast, Redis.
 Oracle SQL, PostgreSQL, MongoDB.
-AWS, GCP, Kubernetes, Docker, Terraform.
+GCP, AWS, Kubernetes, Docker, Terraform.
 Elasticsearch, Splunk, Dynatrace.
 OAuth2, SAML, JWT, LDAP.
 </p>
